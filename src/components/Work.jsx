@@ -4,7 +4,7 @@ import NewsApp from "../assets/news-app.png";
 import Instagram from "../assets/Instagram-clone.png";
 import Alanding from "../assets/Alanding.png";
 import Remix from "../assets/Remix.png";
-import GameImg from "../assets/simon-game.png";
+import DrumKit from "../assets/Drum-kit.png";
 
 const Work = () => {
   return (
@@ -24,7 +24,7 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Netlix-Clone
               </span>
@@ -168,17 +168,17 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${GameImg})` }}
+            style={{ backgroundImage: `url(${DrumKit})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Simon Game
+                Drum kit
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://ramkalyan7.github.io/simon-game/"
+                  href="https://codepen.io/ram-kalyan/full/BamPMXV"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -187,7 +187,7 @@ const Work = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/Ramkalyan7/simon-game"
+                  href="https://github.com/Ramkalyan7/Drum-kit"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
