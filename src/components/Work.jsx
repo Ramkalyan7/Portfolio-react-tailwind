@@ -61,7 +61,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://github.com/Ramkalyan7/NewZZ-project"
+                  href="https://github.com/Ramkalyan7/movies-website"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
